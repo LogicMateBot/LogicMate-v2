@@ -17,6 +17,7 @@ ultralytics
 supervision
 rapidfuzz
 paddleocr
+fastai
 imutils==0.5.4
 torchaudio --index-url https://download.pytorch.org/whl/cu112
 paddlepaddle-gpu -i https://pypi.tuna.tsinghua.edu.cn/simple
